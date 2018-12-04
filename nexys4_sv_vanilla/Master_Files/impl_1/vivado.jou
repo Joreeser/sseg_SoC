@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2.1 (64-bit)
+# SW Build 1957588 on Wed Aug  9 16:32:24 MDT 2017
+# IP Build 1948039 on Wed Aug  9 18:19:28 MDT 2017
+# Start of session at: Tue Dec  4 11:55:18 2018
+# Process ID: 13896
+# Current directory: H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/Master_Files/impl_1
+# Command line: vivado.exe -log mcs_top_vanilla.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mcs_top_vanilla.tcl -notrace
+# Log file: H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/Master_Files/impl_1/mcs_top_vanilla.vdi
+# Journal file: H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/Master_Files/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mcs_top_vanilla.tcl -notrace

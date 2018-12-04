@@ -1,0 +1,21 @@
+12:22:23 **** Auto Build of configuration Debug for project sseg_test ****
+make all 
+'Building file: ../src/main_vanilla_test.cpp'
+'Invoking: MicroBlaze g++ compiler'
+mb-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main_vanilla_test.o" -I../../sseg_bsp/microblaze_I/include -mno-xl-reorder -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main_vanilla_test.d" -MT"src/main_vanilla_test.o" -o "src/main_vanilla_test.o" "../src/main_vanilla_test.cpp"
+'Finished building: ../src/main_vanilla_test.cpp'
+' '
+'Building target: sseg_test.elf'
+'Invoking: MicroBlaze g++ linker'
+mb-g++ -Wl,-T -Wl,../src/lscript.ld -L../../sseg_bsp/microblaze_I/lib -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "sseg_test.elf"  ./src/chu_init.o ./src/gpio_cores.o ./src/main_vanilla_test.o ./src/sseg_core.o ./src/timer_core.o ./src/uart_core.o   -Wl,--start-group,-lxil,-lgcc,-lc,-lstdc++,--end-group
+'Finished building target: sseg_test.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size sseg_test.elf  |tee "sseg_test.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  11816	    284	   3148	  15248	   3b90	sseg_test.elf
+'Finished building: sseg_test.elf.size'
+' '
+
+12:22:25 Build Finished (took 1s.331ms)
+
