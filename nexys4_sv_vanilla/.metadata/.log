@@ -3632,3 +3632,6 @@ Don't forget to modify blconfig.h to reflect the offset where your SREC image re
 
 !ENTRY com.xilinx.sdk.utils 0 0 2018-12-04 12:20:56.929
 !MESSAGE XSCT command with result: [::hsi::utils::get_bram_blocks H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/system.hdf ], Result: [null, dlmb_cntlr ilmb_cntlr]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 1 0 2018-12-04 13:54:57.647
+!MESSAGE Executed Webtalk command

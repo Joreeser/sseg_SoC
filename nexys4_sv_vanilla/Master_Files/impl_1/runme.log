@@ -808,3 +808,8 @@ Bitstream compression saved 23765824 bits.
 Writing bitstream ./mcs_top_vanilla.bit...
 INFO: [Vivado 12-1842] Bitgen Completed Successfully.
 INFO: [Project 1-118] WebTalk data collection is enabled (User setting is ON. Install Setting is ON.).
+INFO: [Common 17-186] 'H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/Master_Files/impl_1/usage_statistics_webtalk.xml' has been successfully sent to Xilinx on Tue Dec  4 11:57:11 2018. For additional details about this file, please refer to the WebTalk help file at C:/Xilinx/Vivado/2017.2/doc/webtalk_introduction.html.
+79 Infos, 152 Warnings, 80 Critical Warnings and 0 Errors encountered.
+write_bitstream completed successfully
+write_bitstream: Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 1668.578 ; gain = 360.531
+INFO: [Common 17-206] Exiting Vivado at Tue Dec  4 11:57:12 2018...

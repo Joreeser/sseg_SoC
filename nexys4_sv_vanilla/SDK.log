@@ -1,0 +1,36 @@
+12:01:03 INFO  : Registering command handlers for SDK TCF services
+12:01:04 INFO  : Launching XSCT server: xsct.bat -interactive H:\SoC_Labs\sseg_soc\nexys4_sv_vanilla\temp_xsdb_launch_script.tcl
+12:01:06 INFO  : XSCT server has started successfully.
+12:01:06 INFO  : Successfully done setting XSCT server connection channel  
+12:01:06 INFO  : Successfully done setting SDK workspace  
+12:02:08 INFO  : Project 'sseg_platform' created. You can now create BSPs and application projects targeting this hardware platform.
+12:06:25 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:06:27 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:06:28 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:10:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:10:24 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:10:25 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:13:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:13:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:13:36 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:15:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:15:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:15:13 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:16:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:16:21 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:16:21 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:17:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:17:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:17:51 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:18:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:18:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:18:36 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:19:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:19:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:19:16 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:19:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:19:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:19:57 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"
+12:20:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:20:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4DDR 210292A4BA40A" && level==0} -index 0' command is executed.
+12:20:56 INFO  : FPGA configured successfully with bitstream "H:/SoC_Labs/sseg_soc/nexys4_sv_vanilla/sseg_platform/download.bit"

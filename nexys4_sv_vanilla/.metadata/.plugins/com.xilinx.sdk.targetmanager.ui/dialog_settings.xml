@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="false" key="sseg_platform-partial_bit"/>
+	<item value="mcs_top_vanilla.bit" key="sseg_platform-bitFile"/>
+	<item value="sseg_platform" key="programfpga.hwplatform"/>
+	<item value="mcs_top_vanilla.mmi" key="sseg_platform-bmmFile"/>
+	<item value="Local" key="sseg_platform-target"/>
+	<item value="Auto Detect" key="sseg_platform-device"/>
+	<item value="H:\SoC_Labs\sseg_soc\nexys4_sv_vanilla\sseg_test\Debug\sseg_test.elf" key="sseg_platform-microblaze_I-initElf"/>
+</section>
